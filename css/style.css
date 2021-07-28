@@ -7,3 +7,19 @@
     height: 44px;
     border-radius: 5px;
 }
+/* common section */
+.txt-color{
+    color: #E76F51;
+}
+/* main body css */
+.top-detail{
+    margin-top: 64px;
+    margin-bottom: 120px;
+}
+.img-gray{
+    filter: grayscale(100%);
+}
+.top-pic img{
+    width: 288px;
+    height: 243px;
+}
