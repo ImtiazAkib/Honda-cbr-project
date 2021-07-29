@@ -23,3 +23,21 @@
     width: 288px;
     height: 243px;
 }
+/* card section */
+.card-layout{
+    margin-top: 40px;
+}
+.my-card-img{
+    width: 149px;
+    height: 149px;
+}
+.svg-img{
+    width: 22px;
+    height: 22px;
+}
+.card-2{
+    margin-left: 80px;
+}
+.card-1{
+    margin-left: 155px;
+}
